@@ -18,6 +18,10 @@ public:
     }
 };
 
+class BinaryTree
+{
+
+};
 int main()
 {
     std::cout << "Hello World!\n";
